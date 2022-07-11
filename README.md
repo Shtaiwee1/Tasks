@@ -4,7 +4,7 @@ A Full stack MERN project with all CRUD operations included.
 
 #Details:
 
--create a project using the form.
+-create a project using the form.</br>
 -Read the project details and state on the main page.
 -Update the state of the project.
 -Delete the project Upon completion.
