@@ -1,8 +1,8 @@
-# Tasks
+# Tasks:
 A Full stack MERN project with all CRUD operations included.
 
 
-#Details:
+# Details:
 
 -create a project using the form.</br>
 -Read the project details and state on the main page.</br>
