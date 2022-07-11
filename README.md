@@ -1,5 +1,5 @@
 # Tasks:
-A Full stack MERN project with all CRUD operations included.
+A Full Stack MERN project with all CRUD operations included.
 
 
 # Details:
